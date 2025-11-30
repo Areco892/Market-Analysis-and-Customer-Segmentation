@@ -62,7 +62,7 @@ In this repository, we will do some data cleaning on the Nashville Housing datas
 - To delete unused columns, use: `alter table <table_name> drop column <column_name>`
   
 ## Acknowledgement
-This project is a continuation from a video I stumbled previously from Alex The Analyst. However this time, this repository will focus on the technique from the youtube video titled "Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4" from Alex The Analyst, again very cool stuff! So, I created this repository to practice my data cleaning skills using PostgreSQL and also to have a way of keep track my progress in becoming a Data Analyst.
+This project is a continuation from a video I stumbled previously from Alex The Analyst. However this time, this repository will focus on the technique from the youtube video titled "Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4" from Alex The Analyst, again very cool stuff! So, I created this repository to practice my data cleaning skills using PostgreSQL and also to keep track of my progress in becoming a Data Analyst.
 
 - Link to AlexTheAnalyst youtube video: https://www.youtube.com/watch?v=8rO7ztF4NtU
 - Link to AlexTheAnalyst repository: https://github.com/AlexTheAnalyst/PortfolioProjects/tree/main
